@@ -28,10 +28,22 @@ form {
   line-height: 200px;
 }
 
+.center {
+  text-align: center;
+}
+
 .beige {
   background: beige;
 }
 
 .azure {
   background: azure;
+}
+
+.darkSeaGreen{
+  background: DarkSeaGreen;
+}
+
+.darkSalmon{
+  background: DarkSalmon;
 }
